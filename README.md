@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abel
 - 👀 I’m interested in
-- 🌱 I’m currently learning software development...
+- 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
